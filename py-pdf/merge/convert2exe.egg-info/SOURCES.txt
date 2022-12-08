@@ -1,0 +1,5 @@
+convert2exe.py
+convert2exe.egg-info/PKG-INFO
+convert2exe.egg-info/SOURCES.txt
+convert2exe.egg-info/dependency_links.txt
+convert2exe.egg-info/top_level.txt
